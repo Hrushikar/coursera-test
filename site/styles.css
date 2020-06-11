@@ -4,6 +4,6 @@ h1{
 }
 
 h1:hover{
-	color: red;
-	cursor: pointer;
+	color: green;
+	cursor: crosshair;
 }

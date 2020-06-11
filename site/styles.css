@@ -2,3 +2,8 @@ h1{
 	color: blue;
 	text-align: center;
 }
+
+h1:hover {
+	cursor: pointer;
+	font-size: 30px;
+}
